@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreezxs&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
+Ser o homem mais rico do cemitério não me interessa. Ir para a cama à noite dizendo que fiz alguma coisa maravilhosa é o que importa para mim.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
