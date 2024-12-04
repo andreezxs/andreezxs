@@ -12,14 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andreezxs&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreezxs&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-Ser o homem mais rico do cemitério não me interessa. Ir para a cama à noite dizendo que fiz alguma coisa maravilhosa é o que importa para mim.
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=andreezxs&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=andreezxs&icon=3&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
